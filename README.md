@@ -10,7 +10,7 @@ An overview of GraphQL in general is available in the
 
 ### ArangoDB example
 
-You can use GraphQL-sync in [ArangoDB](https://www.arangdb.com) to build your own GraphQL endpoints directly inside the database using the [Foxx](https://www.arangodb.com/foxx) framework.
+You can use GraphQL-sync in [ArangoDB](https://www.arangodb.com) to build your own GraphQL endpoints directly inside the database using the [Foxx](https://www.arangodb.com/foxx) framework.
 
 An example Foxx service using GraphQL-sync is available as [demo-graphql](https://github.com/arangodb-foxx/demo-graphql) in the Foxx service store. You can find out more about using GraphQL with Foxx in the ArangoDB blog article [*Using GraphQL with NoSQL database ArangoDB*](https://www.arangodb.com/2016/02/using-graphql-nosql-database-arangodb/).
 
